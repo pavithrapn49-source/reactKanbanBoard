@@ -10,7 +10,7 @@ A simple Kanban board application built with React.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/pavithrapn49-source
+   git clone https://github.com/pavithrapn49-source/reactKanbanBoard.git
    ```
 2. Navigate to the project directory:
    ```bash
